@@ -3,7 +3,7 @@
   "editor.wrappingIndent": "indent",
   "editor.overviewRulerBorder": false,
   "editor.lineHeight": 24,
-  "workbench.colorTheme": "Visual Studio Dark",
+  "workbench.colorTheme": "Default Dark+",
   "[markdown]": {
     "editor.quickSuggestions": true
   },
@@ -15,6 +15,24 @@
   "files.watcherExclude": {
     "**/node_modules": true
   },
+  "editor.codeActionsOnSave": {
+    "source.fixAll.eslint": true
+  },
+  "eslint.options": {
+    "extensions": [
+      ".js",
+      ".jsx",
+      ".md",
+      ".mdx",
+      ".ts",
+      ".tsx"
+    ]
+  },
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
-  "vscodeMarkdownNotes.slugifyMethod": "github-slugger"
+  "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
+  "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.7/bin/python3",
+  "foam.openDailyNote.directory": "inbox/journal",
+  "foam.openDailyNote.filenameFormat": "'daily-note'-yyyy-mm-dd",
+  "foam.openDailyNote.fileExtension": "mdx",
+  "foam.openDailyNote.titleFormat": "'Journal Entry, 'dddd yyyy-mm-dd",
 }
