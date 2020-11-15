@@ -4,6 +4,7 @@ parent: [[readme]]\
 tags: #todo
 
 ## wiki
+- [x] external link.
 - [ ] Understand backlinks.
 - [ ] References to a chapter in a file.
 - [ ] Create a journal, where to put daily notes.

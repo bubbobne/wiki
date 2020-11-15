@@ -31,7 +31,7 @@
   "vscodeMarkdownNotes.noteCompletionConvention": "noExtension",
   "vscodeMarkdownNotes.slugifyMethod": "github-slugger",
   "python.pythonPath": "/Library/Frameworks/Python.framework/Versions/3.7/bin/python3",
-  "foam.openDailyNote.directory": "inbox/journal",
+  "foam.openDailyNote.directory": "inbox/journal/dailynotes",
   "foam.openDailyNote.filenameFormat": "'daily-note'-yyyy-mm-dd",
   "foam.openDailyNote.fileExtension": "mdx",
   "foam.openDailyNote.titleFormat": "'Journal Entry, 'dddd yyyy-mm-dd",

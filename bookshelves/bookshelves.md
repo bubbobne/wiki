@@ -2,6 +2,9 @@
 
 parent: [[readme]]
 
+
+My profile on [anoobii] (https://www.anobii.com/0164c338de128544ea/profile#books_content) and on [goodreads] (https://www.goodreads.com/user/show/40131424-daniele-andreis)
+
 - [[My Favourite books](my-favourite-books.md)]
 - [[Article to read](article-to-read.md)]
 - [[Book to read](book-to-read.md)]
