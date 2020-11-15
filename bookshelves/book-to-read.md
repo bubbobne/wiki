@@ -1,6 +1,6 @@
 # Book to Read
 
-parent: [[bookshelves]]
+parent: [[bookshelves]]\
 tags: #book
 
 ## Programming

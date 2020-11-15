@@ -1,6 +1,6 @@
 # Programming
 
-parent: [[wiki]]
+parent: [[wiki]]\
 tags: #programming
 
 - [[general]]

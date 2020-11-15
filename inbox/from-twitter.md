@@ -1,6 +1,6 @@
 # From Twitter
 
-parent: [[inbox]]
+parent: [[inbox]]\
 tags: #twitter
 
 

@@ -1,6 +1,6 @@
 # Article to Read
 
-parent: [[bookshelves]]
+parent: [[bookshelves]]\
 tags: #article
 
 ## Programming
