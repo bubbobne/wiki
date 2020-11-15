@@ -1,6 +1,6 @@
 # Bubbobne wiki
 
-👋 Welcome to my wiki. See more detail about me on [github](https://github.com/bubbobne) or [linkelind](www.linkedin.com/in/daniele-andreis-64690235)
+👋 Welcome to my wiki. See more detail about me on [github](https://github.com/bubbobne) or [linkelind](https://www.linkedin.com/in/daniele-andreis-64690235)
 ## Getting started
 
 - [[inbox]] - a place to write down quick notes to be categorised later
