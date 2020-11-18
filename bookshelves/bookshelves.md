@@ -7,6 +7,7 @@ My profile on [anoobii] (https://www.anobii.com/0164c338de128544ea/profile#books
 
 - [[My Favourite books](my-favourite-books.md)]
 - [[Article to read](article-to-read.md)]
+- [[Dijgo](dijgo-article-to-read.md)]
 - [[Book to read](book-to-read.md)]
 - [[Film to watch](film-to-watch.md)]
 
